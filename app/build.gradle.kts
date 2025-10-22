@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tipez"
+    namespace = "com.amadeusk.tipez"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.tipez"
+        applicationId = "com.amadeusk.tipez"
         minSdk = 21
         targetSdk = 35
         versionCode = 1
